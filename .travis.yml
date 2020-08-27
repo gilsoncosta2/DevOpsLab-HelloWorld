@@ -20,6 +20,6 @@ script:
 deploy:
      provider: heroku
      #edge: true
-     api-key: 25c88941-91b1-44c5-99d4-da189812d578
+     api-key:
      secure: $HEROKU_API_KEY
         app: devopslabshellowordgcosta
